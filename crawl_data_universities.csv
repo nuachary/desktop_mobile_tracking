@@ -1,0 +1,31 @@
+,visit_id,hostname_site,total_cookies_set,number_third_party_cookies_set,hostname_of_third_party_cookies
+0,1,https://www.harvard.edu/,13,4,"{'https://www.doubleclick.net', 'https://www.facebook.com', 'https://www.youtube.com', 'https://www.nr-data.net'}"
+1,2,https://www.princeton.edu/,4,0,set()
+2,3,http://www.mit.edu/,11,3,"{'https://www.doubleclick.net', 'https://www.youtube.com', 'https://www.siteintercept.qualtrics.com'}"
+3,4,https://www.yale.edu/,10,3,"{'https://www.66356571.global.siteimproveanalytics.io', 'https://www.nr-data.net', 'https://www.siteimproveanalytics.com'}"
+4,5,https://www.caltech.edu/,7,1,{'https://www.facebook.com'}
+5,6,https://www.stanford.edu/,4,0,set()
+6,7,https://www.uchicago.edu/,23,3,"{'https://www.doubleclick.net', 'https://www.youtube.com', 'https://www.hypemarks.com'}"
+7,8,https://www.columbia.edu/,14,1,{'https://www.addthis.com'}
+8,9,https://www.upenn.edu/,5,1,{'https://www.nr-data.net'}
+9,10,https://www.cornell.edu/,11,2,"{'https://www.6120104.global.siteimproveanalytics.io', 'https://www.siteimproveanalytics.com'}"
+10,11,https://www.berkeley.edu/,17,2,"{'https://www.8343.global.siteimproveanalytics.io', 'https://www.siteimproveanalytics.com'}"
+11,12,https://www.duke.edu/,3,0,set()
+12,13,https://www.jhu.edu/,11,4,"{'https://www.facebook.com', 'https://www.twitter.com', 'https://www.6185845.global.siteimproveanalytics.io', 'https://www.siteimproveanalytics.com'}"
+13,14,https://www.northwestern.edu/,15,1,{'https://www.crazyegg.com'}
+14,15,http://www.ucla.edu/,8,2,"{'https://www.doubleclick.net', 'https://www.google.com'}"
+15,16,https://www.annarbor.org/university-of-michigan/,8,5,"{'https://www.rezync.com', 'https://www.simpleviewinc.com', 'https://www.adnxs.com', 'https://www.doubleclick.net', 'https://www.live.rezync.com'}"
+16,17,https://www.cmu.edu/,11,3,"{'https://www.doubleclick.net', 'https://www.siteimproveanalytics.com', 'https://www.adsrvr.org'}"
+17,18,https://www.ucsd.edu/,22,5,"{'https://www.ads.linkedin.com', 'https://www.linkedin.com', 'https://www.www.linkedin.com', 'https://www.facebook.com', 'https://www.adsymptotic.com'}"
+18,19,https://www.brown.edu/,1,0,set()
+19,20,https://www.wisc.edu/,7,2,"{'https://www.eloqua.com', 'https://www.crazyegg.com'}"
+20,21,https://www.nyu.edu/,10,0,set()
+21,22,https://www.vanderbilt.edu/,25,2,"{'https://www.doubleclick.net', 'https://www.youtube.com'}"
+22,23,http://www.washington.edu/,7,3,"{'https://www.doubleclick.net', 'https://www.siteimproveanalytics.com', 'https://www.47642.global.siteimproveanalytics.io'}"
+23,24,https://illinois.edu/,63,1,{'https://www.instagram.com'}
+24,25,https://wustl.edu/,5,0,set()
+25,26,https://home.dartmouth.edu/,10,2,"{'https://www.siteimproveanalytics.com', 'https://www.66356409.global.siteimproveanalytics.io'}"
+26,27,https://www.utexas.edu/,11,2,"{'https://www.google.com', 'https://www.nr-data.net'}"
+27,28,https://www.rice.edu/,16,3,"{'https://www.google.com', 'https://www.vimeo.com', 'https://www.addtoany.com'}"
+28,29,http://www.emory.edu/home/index.html,18,5,"{'https://www.siteimproveanalytics.com', 'https://www.my.spectate.com', 'https://www.doubleclick.net', 'https://www.66356337.global.siteimproveanalytics.io', 'https://www.quantserve.com'}"
+29,30,https://www.usc.edu/,3,0,set()

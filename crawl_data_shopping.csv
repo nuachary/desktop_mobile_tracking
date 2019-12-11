@@ -1,0 +1,31 @@
+,visit_id,hostname_site,total_cookies_set,number_third_party_cookies_set,hostname_of_third_party_cookies
+0,1,https://www.ebay.com/,19,0,set()
+1,2,https://www.aliexpress.com/,41,4,"{'https://www.mmstat.com', 'https://www.criteo.com', 'https://www.facebook.com', 'https://www.us.ynuf.aliapp.org'}"
+2,3,https://www.amazon.com/,1,0,set()
+3,4,https://world.taobao.com/,45,4,"{'https://www.mmstat.com', 'https://www.g.alicdn.com', 'https://www.facebook.com', 'https://www.doubleclick.net'}"
+4,5,https://www.rakuten.com/,53,10,"{'https://www.adsrvr.org', 'https://www.w55c.net', 'https://www.bing.com', 'https://www.google.com', 'https://www.trkn.us', 'https://www.doubleclick.net', 'https://www.postrelease.com', 'https://www.bat.bing.com', 'https://www.linksynergy.com', 'https://www.simpli.fi'}"
+5,6,https://www.tmall.com/,26,3,"{'https://www.mmstat.com', 'https://www.taobao.com', 'https://www.g.alicdn.com'}"
+6,7,https://www.flipkart.com/,18,3,"{'https://www.facebook.com', 'https://www.doubleclick.net', 'https://www.demdex.net'}"
+7,8,https://www.walmart.com/,114,15,"{'https://www.criteo.com', 'https://www.tapad.com', 'https://www.tribalfusion.com', 'https://www.exelator.com', 'https://www.zy-us-dyn.wal.co', 'https://www.bing.com', 'https://www.facebook.com', 'https://www.wal.co', 'https://www.ll-us-dyn.wal.co', 'https://www.adnxs.com', 'https://www.doubleclick.net', 'https://www.myvisualiq.net', 'https://www.bat.bing.com', 'https://www.cf-us-dyn.wal.co', 'https://www.ec-us-dyn.wal.co'}"
+8,9,https://www.mercadolivre.com.br/,15,3,"{'https://www.mercadopago.com.br', 'https://www.mercadopago.com', 'https://www.mercadolivre.com'}"
+9,10,https://allegro.pl/,23,3,"{'https://www.creativecdn.com', 'https://www.doubleclick.net', 'https://www.hit.gemius.pl'}"
+10,11,https://www.etsy.com/,19,4,"{'https://www.ispot.tv', 'https://www.bing.com', 'https://www.bat.bing.com', 'https://www.doubleclick.net'}"
+11,12,https://www.alibaba.com/?from_http=1,44,3,"{'https://www.mmstat.com', 'https://www.alicdn.com', 'https://www.us.ynuf.aliapp.org'}"
+12,13,https://www.wish.com/,21,4,"{'https://www.www.paypal.com', 'https://www.facebook.com', 'https://www.paypal.com', 'https://www.google.com'}"
+13,14,https://www.target.com/,28,3,"{'https://www.criteo.com', 'https://www.adsrvr.org', 'https://www.ispot.tv'}"
+14,15,https://www.ikea.com/,12,0,set()
+15,16,https://www.homedepot.com/,49,5,"{'https://www.demdex.net', 'https://www.collector-pxj770cp7y.perimeterx.net', 'https://www.client.perimeterx.net', 'https://www.nr-data.net', 'https://www.everesttech.net'}"
+16,17,https://www.nike.com/,29,4,"{'https://www.api.bounceexchange.com', 'https://www.bounceexchange.com', 'https://www.app.link', 'https://www.nr-data.net'}"
+17,18,https://www.macys.com/,38,4,"{'https://www.everesttech.net', 'https://www.macys.tt.omtrdc.net', 'https://www.dpm.demdex.net', 'https://www.demdex.net'}"
+18,19,https://www2.hm.com/en_us/index.html,15,0,set()
+19,20,https://www.costco.com/,36,3,"{'https://www.everesttech.net', 'https://www.dpm.demdex.net', 'https://www.demdex.net'}"
+20,21,https://www.wayfair.com/,9,0,set()
+21,22,https://www.wiley.com/en-us,34,2,"{'https://www.everesttech.net', 'https://www.demdex.net'}"
+22,23,https://www.kohls.com/,101,9,"{'https://www.dpm.demdex.net', 'https://www.rlcdn.com', 'https://www.navdmp.com', 'https://www.demdex.net', 'https://www.agkn.com', 'https://www.adnxs.com', 'https://www.doubleclick.net', 'https://www.everesttech.net', 'https://www.33across.com'}"
+23,24,https://www.bhphotovideo.com/,36,0,set()
+24,25,https://www.groupon.com/,35,1,{'https://www.boldchat.com'}
+25,26,https://www.ticketmaster.com/,46,3,"{'https://www.quantserve.com', 'https://www.app.link', 'https://www.lytics.io'}"
+26,27,https://www.lowes.com/,97,18,"{'https://www.eyeviewads.com', 'https://www.adsrvr.org', 'https://www.atdmt.com', 'https://www.dpm.demdex.net', 'https://www.igodigital.com', 'https://www.rfihub.com', 'https://www.bing.com', 'https://www.rlcdn.com', 'https://www.facebook.com', 'https://www.collector-px61wvsvi8.perimeterx.net', 'https://www.demdex.net', 'https://www.netmng.com', 'https://www.agkn.com', 'https://www.doubleclick.net', 'https://www.client.perimeterx.net', 'https://www.everesttech.net', 'https://www.bat.bing.com', 'https://www.krxd.net'}"
+27,28,https://www.iherb.com/,31,5,"{'https://www.images-iherb.com', 'https://www.bing.com', 'https://www.google.com', 'https://www.doubleclick.net', 'https://www.bat.bing.com'}"
+28,29,https://shop.nordstrom.com/,57,8,"{'https://www.atdmt.com', 'https://www.ispot.tv', 'https://www.bing.com', 'https://www.revjet.com', 'https://www.facebook.com', 'https://www.yahoo.com', 'https://www.doubleclick.net', 'https://www.bat.bing.com'}"
+29,30,https://www.shutterfly.com/,23,2,"{'https://www.everesttech.net', 'https://www.demdex.net'}"

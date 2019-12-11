@@ -1,0 +1,30 @@
+,visit_id,hostname_site,total_cookies_set,number_third_party_cookies_set,hostname_of_third_party_cookies
+0,4,https://www.facebook.com/,8,2,"{'https://www.atdmt.com', 'https://www.doubleclick.net'}"
+1,5,https://twitter.com/?lang=en,11,1,{'https://www.doubleclick.net'}
+2,6,https://www.linkedin.com/,22,5,"{'https://www.doubleclick.net', 'https://www.youtube.com', 'https://www.qualaroo.com', 'https://www.demdex.net', 'https://www.scorecardresearch.com'}"
+3,7,https://www.pinterest.com/,7,1,{'https://www.google.com'}
+4,8,https://www.whatsapp.com/,3,0,set()
+5,9,https://www.viber.com/,1,0,set()
+6,10,https://www.instagram.com/,6,0,set()
+7,11,https://www.youtube.com/,6,2,"{'https://www.doubleclick.net', 'https://www.accounts.google.com'}"
+8,12,https://www.tumblr.com/,17,1,{'https://www.scorecardresearch.com'}
+9,13,https://www.reddit.com/,9,3,"{'https://www.aaxads.com', 'https://www.cdn.embedly.com', 'https://www.embedly.com'}"
+10,14,https://www.meetup.com/,7,0,set()
+11,15,https://ask.fm/,15,1,{'https://www.facebook.com'}
+12,16,https://www.classmates.com/,35,7,"{'https://www.doubleclick.net', 'https://www.casalemedia.com', 'https://www.liadm.com', 'https://www.facebook.com', 'https://www.amazon-adsystem.com', 'https://www.adsrvr.org', 'https://www.memorylane.d1.sc.omtrdc.net'}"
+13,17,https://www.snapchat.com/,11,0,set()
+14,18,https://www.quora.com/,15,2,"{'https://www.rlcdn.com', 'https://www.google.com'}"
+15,19,https://www.stumbleupon.com/,3,0,set()
+16,20,https://digg.com/,21,7,"{'https://www.doubleclick.net', 'https://www.gumgum.com', 'https://www.33across.com', 'https://www.lijit.com', 'https://www.3lift.com', 'https://www.adnxs.com', 'https://www.amazon-adsystem.com'}"
+17,21,https://disqus.com/,11,3,"{'https://www.hs-scripts.com', 'https://www.hubspot.com', 'https://www.hs-analytics.net'}"
+18,22,https://www.twoo.com/,14,2,"{'https://www.onetrust.com', 'https://www.nr-data.net'}"
+19,23,https://vk.com/,16,2,"{'https://www.tns-counter.ru', 'https://www.mail.ru'}"
+20,24,https://www.skype.com/en/,8,2,"{'https://www.microsoft.com', 'https://www.login.live.com'}"
+21,25,https://www.taringa.net/,107,21,"{'https://www.sitescout.com', 'https://www.kn3.net', 'https://www.retargetly.com', 'https://www.adsrvr.org', 'https://www.ps.eyeota.net', 'https://www.doubleclick.net', 'https://www.mathtag.com', 'https://www.dyntrk.com', 'https://www.tapad.com', 'https://www.bluekai.com', 'https://www.rlcdn.com', 'https://www.pubmatic.com', 'https://www.smadex.com', 'https://www.taboola.com', 'https://www.groovinads.com', 'https://www.eyeota.net', 'https://www.crsspxl.com', 'https://www.yahoo.com', 'https://www.t26.net', 'https://www.adnxs.com', 'https://www.crwdcntrl.net'}"
+22,26,https://secure.tagged.com/,10,3,"{'https://www.doubleclick.net', 'https://www.facebook.com', 'https://www.google.com'}"
+23,27,https://myspace.com/,108,17,"{'https://www.doubleclick.net', 'https://www.rubiconproject.com', 'https://www.ipredictive.com', 'https://www.casalemedia.com', 'https://www.youtube.com', 'https://www.mathtag.com', 'https://www.bh.contextweb.com', 'https://www.tapad.com', 'https://www.acuityplatform.com', 'https://www.1rx.io', 'https://www.adnxs.com', 'https://www.contextweb.com', 'https://www.go.sonobi.com', 'https://www.scorecardresearch.com', 'https://www.adsrvr.org', 'https://www.vindicosuite.com', 'https://www.bidswitch.net'}"
+24,28,https://www.skyrock.com/,31,7,"{'https://www.doubleclick.net', 'https://www.insurads.com', 'https://www.youtube.com', 'https://www.messaging.insurads.com', 'https://www.nuggad.net', 'https://www.static.quantcast.mgr.consensu.org', 'https://www.scorecardresearch.com'}"
+25,29,https://www.meetme.com/,77,25,"{'https://www.analytics.yahoo.com', 'https://www.advertising.com', 'https://www.ads.yahoo.com', 'https://www.quantserve.com', 'https://www.d.adroll.com', 'https://www.doubleclick.net', 'https://www.rubiconproject.com', 'https://www.h.online-metrix.net', 'https://www.3lift.com', 'https://www.rlcdn.com', 'https://www.bidswitch.net', 'https://www.pippio.com', 'https://www.krxd.net', 'https://www.pubmatic.com', 'https://www.facebook.com', 'https://www.simage2.pubmatic.com', 'https://www.outbrain.com', 'https://www.adroll.com', 'https://www.taboola.com', 'https://www.sync.outbrain.com', 'https://www.casalemedia.com', 'https://www.openx.net', 'https://www.yahoo.com', 'https://www.adnxs.com', 'https://www.scorecardresearch.com'}"
+26,30,https://nextdoor.com/,17,2,"{'https://www.app.link', 'https://www.vimeo.com'}"
+27,31,https://line.me/en/,5,1,{'https://www.naver.jp'}
+28,32,https://foursquare.com/,36,5,"{'https://www.ads.linkedin.com', 'https://www.adsymptotic.com', 'https://www.bidr.io', 'https://www.linkedin.com', 'https://www.company-target.com'}"
